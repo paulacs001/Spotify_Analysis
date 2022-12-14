@@ -11,5 +11,5 @@ Web Analytics project using data from Spotify and Genius to create a country-bas
 
 > Tops_Analysis: This notebook explores the Spotify data in order to create an interactive dashboard. We explore country similarities, most streamed artists, most popular moods and 25 recommended songs.
 
-The final dashboard looks as follows:
+Above an example of the dashboard when analyzing Spain:
 ![image](https://user-images.githubusercontent.com/94440488/207579140-c5e51daf-fd1f-4f6b-9090-c929e283eecd.png)
